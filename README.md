@@ -1,4 +1,7 @@
-git used to save project state in case of emergency or something.
+Goodbye Ollie
+-----------------------------
+A collection of poetry written for a friend. Will be published through Amazon
+kdp.
 
-This will be where I design and implement the book of poetry from Ollie over
-the summer.
+Fun summer creative project to learn libreoffice and how to get a book out
+there and readable by friends.
