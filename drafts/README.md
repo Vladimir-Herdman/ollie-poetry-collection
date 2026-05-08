@@ -1,5 +1,10 @@
-Poem Title Ideas:
-
+# Idea here
+As a binary file in git, I can't track actual diffs between versions of the
+main document (outside of log comments). I'll be trying to make the poem
+drafts in this directory, so I can track changes and what's been added over
+time to each idea.
+# Poem Title Ideas
+```
 Rising Action
 Climax
 What have I done
@@ -13,3 +18,4 @@ Not enough
 Fatass
 
 Golden Goose
+```
